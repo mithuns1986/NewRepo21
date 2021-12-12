@@ -1,5 +1,5 @@
 This is a sample file.
 
-This line I have added from my local machine.
+This line I have added from github.
 
 Added some code from local machine sewcond time 
